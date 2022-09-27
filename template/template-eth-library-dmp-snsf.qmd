@@ -4,8 +4,6 @@ format: html
 editor: source
 ---
 
-
-
 # Institution {.unnumbered}
 
 ETH Zurich
